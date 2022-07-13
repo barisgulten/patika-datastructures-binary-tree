@@ -7,15 +7,16 @@
 
 # Solutions. 
 
-   7        5 added
+   7
   /
  5
- 
-      7     1 added
+ ---
+      7 
      /
     5
    /
   1
+---
  
       7      8 added
      /  \
